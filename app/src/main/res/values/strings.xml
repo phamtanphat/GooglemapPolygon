@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GooglemapDC_Solar</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="label_coordinates">Coordinates</string>
+</resources>
