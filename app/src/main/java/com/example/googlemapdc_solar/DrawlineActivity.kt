@@ -27,7 +27,7 @@ class DrawlineActivity : AppCompatActivity() , OnMapReadyCallback {
         supportMapsActivity.getMapAsync(this)
 //        val currentDrawingType = DrawingOption.DrawingType.POLYGON
 //
-//        val intent = DrawingOptionBuilder()
+        val intent = DrawingOptionBuilder()
 //            .withCalculateLayoutHidden()
 //            .withSatelliteViewHidden()
 //            .withLocation(40.758347, -73.970185)
